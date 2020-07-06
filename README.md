@@ -1,5 +1,7 @@
 # Web-Design-Challenge
 
+<img src="Screenshot_homepage" alt="homepage">
+
 The website must consist of 7 pages total, including:
 
 A landing page containing:
