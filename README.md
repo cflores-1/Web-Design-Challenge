@@ -1,6 +1,5 @@
 # Web-Design-Challenge
 
-<img src="Screenshot_homepage.png" alt="homepage">
 
 The website must consist of 7 pages total, including:
 
